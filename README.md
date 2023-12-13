@@ -1,4 +1,4 @@
-Just a repo for my finished projects
+Repo for finished projects
 
 Projects incomming:\
 Teslasuit VR game\
