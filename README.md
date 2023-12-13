@@ -3,4 +3,4 @@ Repo for finished projects
 Projects incomming:\
 Teslasuit VR game\
 Pizza or not pizza (AI Multi Layer Percepltron Projects)\
-More python dataminig stuff incomming\
+More python dataminig stuff incomming
