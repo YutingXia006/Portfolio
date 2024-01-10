@@ -1,0 +1,6 @@
+[submodule "Java/Mal-Ware"]
+	path = Java/Mal-Ware
+	url = https://github.com/YutingXia006/Mal-Ware.git
+[submodule "Java/trainingapp"]
+	path = Java/trainingapp
+	url = https://github.com/YutingXia006/trainingapp.git
