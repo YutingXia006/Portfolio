@@ -4,3 +4,6 @@
 [submodule "Java/trainingapp"]
 	path = Java/trainingapp
 	url = https://github.com/YutingXia006/trainingapp.git
+[submodule "Unity C#/teslassuitabgabe"]
+	path = "Unity C#/teslassuitabgabe"
+	url = https://gitlab.mi.hdm-stuttgart.de/fm096/teslassuitabgabe.git
