@@ -8,4 +8,5 @@ Python:\
 &nbsp;&nbsp;&nbsp;&nbsp; Selected topics of AI: Classifier for pizza or not pizza (3 different neural networks)
 
 Unity C#:\
-&nbsp;&nbsp;&nbsp;&nbsp; Teslas House: Escape room game for VR and Teslasiut (the binary does not work without Teslasuit, Teslasuit Studio and unity plug-in are needed)
+&nbsp;&nbsp;&nbsp;&nbsp; Teslas House: Escape room game for VR and Teslasiut\
+&nbsp;&nbsp;&nbsp;&nbsp; (the binary does not work without Teslasuit, Teslasuit Studio and unity plug-in are needed)\
